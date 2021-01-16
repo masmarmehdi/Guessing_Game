@@ -6,7 +6,7 @@ def guessing_number(n):
             elif n > number :
                 print("<<TOO FAR>>")
             elif n == number:
-                print("<<BINGOO!! YOU WON!")
+                print("<<BINGOO!! YOU WON!>>")
                 return True
 
 
